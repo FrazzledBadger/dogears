@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MEMs PCB.PcbDoc   01/07/2014  19:55:08
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MEMs PCB.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          7                30.99 mm (1.22 Inch)
+T2        0.61mm (24.016mil)       Round          1                0.00 mm (0.00 Inch)
+T3        0.9mm (35.433mil)        Round          3                5.08 mm (0.20 Inch)
+T4        2mm (78.74mil)           Round          2                19.91 mm (0.78 Inch)
+---------------------------------------------------------------------------
+Totals                                            13               55.98 mm (2.20 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
